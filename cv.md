@@ -21,7 +21,7 @@ _My main goal - is to get deeper knowledge on web development for futher practic
 * _Figma_
 
 ## Experience:
-_ Learned HTML and CSS basics in English via https://www.freecodecamp.org/learn/ with small code tests like on https://ru.code-basics.com/ _
+_Learned HTML and CSS basics in English via https://www.freecodecamp.org/learn/ with small code tests like on https://ru.code-basics.com/_
 
 ## Education:
 * _*BSUIR (Belarusian State University of Informatics and Radioelectronics)*_
