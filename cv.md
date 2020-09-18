@@ -1,9 +1,9 @@
-## CV for RollingScopeSchool
+## CV for RollingScopesSchool
 
 # _**Victoria Medvedeva**_
 
 ## Contacts:
-* _+375(29)617-71-10 (A1)_
+* _+375(29) 617-71-10 (A1)_
 * _6337070@mail.ru_
 * _6337070@gmail.com_
 * _[VK](https://vk.com/medvedeva903)_
