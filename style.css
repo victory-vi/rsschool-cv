@@ -1,0 +1,53 @@
+h3 {
+    font-style: normal;
+    color: black;
+}
+
+p {
+    font-size: 16px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: rgba(7, 7, 7, 0.89)
+}
+
+.photo {
+    border-radius: 50em;
+    width: 130px;
+    height: 130px;
+}
+
+.blocks {
+    display: inline-block;
+    list-style: none;
+    border: 1px none black;
+    height: 160px;
+    width: 190px;
+}
+
+.marginForMain {
+    align-self: center;
+    margin: 0px 16em;
+    padding: 2em;
+    /* background-color: rgba(226, 229, 229, 0.89); */
+    background-color: white;
+}
+
+article {
+    /*  border-color: yellow; */
+    border: 0.5px;
+    border-top-style: solid;
+    border-color: thistle;
+    margin: 16px 10px;
+    padding: 6px 30px;
+}
+
+.forArticle {
+    padding: 8px 8px 4px 0px;
+}
